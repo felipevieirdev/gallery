@@ -13,4 +13,5 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background: linear-gradient(#4C2959, #03033A);
 }
